@@ -1,0 +1,197 @@
+#código continente, nombre continente
+1,América
+2,África
+3,Asia
+4,Europa
+5,Oceanía
+#código_continente, código_País, País, Capital, Extensión,
+#Gentilicio, Moneda, Población, Limites
+1,043,Antigua y Barbuda,Saint John,440,Antiguano,Dólar del Caribe Oriental,102012,Isla de Guadalupe,Montserrat,San Cristobal y Nevis, San Bartolome
+1,077,Bahamas,Nasau,13878,Bahameño,Dólar Bahameño,395361,Estados Unidos,Cuba,Islas Turcas y Caicos
+1,083,Barbados,Bridgetown,431,Barbadense,Dólar de Barbados,285719,Océano Atlantico,Islas
+1,088,Belice,Belmopan,22966,Beliceño,Dólar Beliceño,374681,Mexico,Guatemala,Yucatan
+1,097,Bolivia,Sucre,1098581,Boliviano,Peso Boliviano,11501900,Brasil,Argentina,Paraguay,Perú,Chile
+1,105,Brasil,Brasilia,8514215,Brasileño,Real Brasileño,210147125,Argentina,Uruguay,Paraguay,Océano Atlántico,Venezuela,Colombia,Guayana,Surinam,Guayana Francesa,Perú
+1,149,Canadá,Ottawa,9984670,Canadiense,Dolar Canadiense,35151728,Estados Unidos,Océano Glaciar Artico,Océano Atlantico,Océano Pacífico
+1,211,Chile,Santiago de Chile,756096,Chileno,Peso Chileno,19107216,Perú,Bolivia,Argentina,Polo Sur,Océano Pacífico
+1,169,Colombia,Bogotá,1142748,Colombiano,Peso Colombiano,48258494,Oceano Pacifico,Oceano Atlantico,Ecuador,Panamá,Peru,Brasil,Venezuela
+1,196,Costa Rica,San Jose,51100,Costarricence,Colon Costarricence,5022000,Nicaragua,Panama,Océano Pacífico,Mar Caribe
+1,199,Cuba,La Habana,109884,Cubano,Peso Cubano,11338138,Estrecho de la Florida,Canal de las Bahamas,Mar Caribe,Jamaica,Estrecho de Yucatan,Haiti
+1,239,Ecuador,Quito,283560,Ecuatoriano,Dólar estadounidense,17300000,Colombia,Perú,Océano Pacífico
+1,242,El Salvador,San Salvador,21041,Salvadoreño,Dólar Estadounidense,7327479,Honduras,Guatemala,Océano Pacífico,Nicaragua,Golfo de Fonseca
+1,249,Estados Unidos,Washington,9147593,Estadounidense,Dolar Estadounidense,325719178,Océano Ártico,Océano Pacífico,Oceano Atlantico,Mar de Beaufort,Mar de Chukotka, Mar de Bering,Mexico,Canada
+1,297,Granada,Saint George,348,Granadino,Dólar del Caribe Oriental,107825,Mar Caribe,Océano Atlántico,Trinidad,Tobago,Venezuela,San Vicente
+1,317,Guatemala,Ciudad de Guatemala,108888,Guatemalteco,Quetzal,14901286,México,Belice,Mar Caribe,Honduras,el Salvador,Oceano Pacifico
+1,325,Guayana,Georgetown,214969,Guayanes,Dólar Guayanes,777859,Oceano Atlántico,Surinam,Venezuela,Brasil
+1,341,Haiti,Puerto Principe,27750,Haitiano,Gourde,11123176,Oceano Atlántico,República Dominicana,Mar Caribe
+1,245,Honduras,Tegucigalpa,112492,Hondureño,Lempira,9587522,Ultramar de Guadalupe, Martinica
+1,391,Jamaica,Kingston,10992,Jamaiquino,Dólar Jamaiquino,2934855,Cuba,Haiti,Republica Dominicana
+1,493,México,Ciudad de México,1964375,Mexicano,Peso Mexicano,126577691,Estados Unidos,Guatemala,Belice
+1,521,Nicaragua,Managua,129999,Nicaraguense,Cordoba,6465513,Honduras,Costa Rica,Océano Pacífico,Mar Caribe
+1,580,Panamá,Ciudad de Panamá,75517,Panameño,Dolar Estadounidense,4159000,Mar Caribe,Océano Pacífico,Colombia,Costa Rica
+1,586,Paraguay,Asuncion,406752,Paraguayos,Guarani,7053000,Bolivia,Argentina,Brasil
+1,589,Perú,Lima,1285215,Peruano,Sol,32162184,Ecuador,Colombia,Brasil,Bolivia,Chile,Océano Pacéfico
+1,647,República Dominicana,Santo Domingo,48442,Dominicano,Peso Dominicano,10266000,Océano Atléntico,Mar Caribe,Haiti,Puerto Rico
+1,695,San Cristobal y Nieves,Basseterre,269,Sancristobaleño,Dólar del Caribe Oriental,55345,Mar Caribe,Océano Atléntico,Isla de Anguila,Montserrat
+1,705,San Vicente y las Granadinas,Kingstown,389,Sanvicentino,Dólar del Caribe Oriental,109897,Santa Lucia,Granada,Mar Caribe,Oceano Atlantico
+1,715,Santa Lucia,Castries,617,Santalucence,Dólar del Caribe Oriental,178844,Ultramar de Guadalupe,Martinica
+1,770,Surinam,Paramaribo,163821,Surinames,Dólar Surinames,563402,Mar Caribe,Brasil,Guayana
+1,815,Trinidad y Tobago,Puerto España,5131,Trinitense,Dólar Trinitense,1369,Oceano Atlantico,Mar Caribe,Venezuela,Granada
+1,845,Uruguay,Montevideo,176215,Uruguayo,Peso Uruguayo,3449299,Brasil,Océano Atlantico,Argentina
+1,850,Venezuela,Caracas,916445,Venezolano,Bolívar,28870195,Trinidad,Tobago,Republica Dominicana,Aruba,Crazao,Bonaire,Puerto Rico,Islas Virgenes,Martinica,Guadalupe,Brasil,Colombia,Océano Atlántico,Guayana
+2,024,Angola,Luanda,1246702,Portugues,Kwanza,20172332,Namibia,Republica Democratica del Congo,la Republica del Congo,Zambia,oceano Atlantico
+2,012,Argelia,Argel,2381741,Argelino,Dinar argelino,40263711, mar Mediterráneo,Túnez.Libia,Níger,Malí,Mauritania,Sahara Occidental,Marruecos.
+2,204,Benin,Porto Novo,112622,Beninés,Franco CFA de Africa Occidental,10741458, Togo al oeste,Nigeria,Burkina Faso,Níger.
+2,072,Botsuana,Gaborone,581730,botsuano,Pula,2209208,Sudáfrica,Namibia,Zimbabue,Zambia.
+2,854,Burkina Faso,Uagadugú,274200,Burkinés,Franco CFA de Africa Occidental,19512533,Malí,Níger,Costa de Marfil,Ghana,Togo,Benín.
+2,108,Burundi,Gitega,27830,burundés,Franco burundés,11099298,Ruanda,Tanzania,República Democrática del Congo.
+2,132,Cabo Verde,Praia,4033,caboverdiano,Escudo caboverdiano,553432,Oceano Atlantico.
+2,120,Camerún,Yaundé,475440,Camerunés,Franco CFA de África Central,24360803,Nigeria,Chad,República Centroafricana,Gabón,Congo,Guinea Ecuatorial.
+2,140,República Centroafricana,Bangui,622984,Centroafricano,Franco CFA de África Central,5507257,Chad,Sudan,Sudán del Sur,República Democrática del Congo,República del Congo,Camerún.
+2,148,Chad,Yamena,1284000,Chadiano,Franco CFA de África Central,11852462,Libia,Sudán,República Centroafricana,Camerún,Nigera,Níger.
+2,31662,Comoras,Moroni,2235,Comorense,Franco comorano,794678, África,canal de Mozambique,océano Índico,Madagascar,Mozambique.
+2,178,República del Congo,Brazzaville,342000,congoleño,Franco CFA de África Central,4852412,Camerún,República Centroafricana,República Democrática del Congo,Gabón,océano Atlántico.
+2,180,República Democrática del Congo,Kinsasa,2344858,congoleño,Franco congoleño,81331050,República Centroafricana,Sudán del Sur,Uganda,Ruanda,Burundi,Tanzania,Zambia,Angola,República del Congo.
+2,384,Costa de Marfil,Yamusukro,322463,Marfileño,Franco CFA de África Occidental,23740424,Liberia,Guinea,Malí,Burkina Faso,Ghana,golfo de Guinea.
+2,818,Egipto,El Cairo,1001450,egipcio,Libra egipcia,94666993,Sudán,Libia,Palestina,Israel,mar Mediterráneo,mar Rojo
+2,232,Eritrea,Asmara,117600,Eritreo,Nakfa,5869869,Sudán,Etiopía,Yibuti
+2,231,Etiopía,Adís Abeba,1104300,etíope,Birr etíope,102374044,Eritrea,Yibuti,Somalia,Kenia,Sudán,Sudán del Sur
+2,266,Gabon,Libreville,267667,Gabonés,Franco CFA de África Central,1738541,Guinea Ecuatorial,Camerún,República del Congo,golfo de Guinea.
+2,270,Gambia,Banjul,11300,Gambiano,Dalasi,2009648,Senegal
+2,288,Ghana,Acra,238533,Ghanés,Cedi,26908262,Burkina Faso,Togo,Costa de Marfil,golfo de Guinea.
+2,324,Guinea,Conakri,245857,Guineano,Franco guineano,12093349,Guinea-Bisáu,Senegal,Malí,Costa de Marfil,Liberia,Sierra Leona
+2,624,Guinea-Bisáu,Bisáu,36125,bisauguineano,Franco CFA de África Occidental,1759159,Senegal,Guinea,océano Atlántico
+2,226,Guinea Ecuatorial,Malabo,28051,Ecuatoguineano,Franco CFA de África Central,759451,Camerún,Gabón,golfo de Guinea
+2,404,Kenia,Nairobi,580367,keniano,Chelín keniata,46790758,Etiopía,Somalia,Tanzania,Uganda,Sudán del Sur
+2,426,Lesoto,Maseru,30355,Lesotense,Loti,1953070,Sudáfrica
+2,430,Liberia,Monrovia,111369,Liberiano,Dólar liberiano,4299944,Sierra Leona,Costa de Marfil,Guinea.
+2,434,Libia,Trípoli,1759540,libio,Dinar libio,6541948,mar Mediterráneo,Túnez,Argelia,Níger,Chad,Sudán,Egipto
+2,450,Madagascar,Antananarivo,587041,Malgache,Ariary,24430325,océano Índico.
+2,454,Malaui,Lilongüe,118484,Malauí,Kwacha malauí,18570321,Zambia,Tanzania,Mozambique.
+2,466,Malí,Bamako,1240192,maliense,Franco CFA de África Occidental,17467108,Argelia, al este con Níger,Mauritania,Senegal,Costa de Marfil,Guinea,Burkina Faso.
+2,504,Marruecos,Rabat,446550,Marroquí,Dirham marroquí,33655786,Océano Atlántico,mar Mediterráneo.
+2,480,Mauricio,Port Louis,2040,mauriciano,Rupia,1348242,océano Índico.
+2,478,Mauritania,Nuakchot,1030700,mauritano,Uguiya,3677293,océano Atlántico,Senegal,Malí,Argelia,Sáhara Occidental.
+2,508,Mozambique,Maputo,799380,mozambiqueño,Metical,25930150,Tanzania,Malaui,Zambia,Zimbabue,Suazilandia,Sudáfrica,océano Índico.
+2,516,Namibia,Windhoek,824292,namibio,Dólar namibio,2436469,Angola,Zambia,océano Atlántico,Botsuana,Sudáfrica.
+2,562,Níger,Niamey,1267000,Nigerino,Franco CFA de África Occidental,18638600,Nigeria,Benín,Burkina Faso,Malí,Argelia,Libia,Chad.
+2,566,Nigeria,Abuya,923768,nigeriano,Naira,186053386,Níger,Chad,Camerún,Benín.
+2,646,Ruanda,Kigali,26338,Ruandés,Franco ruandés,12988423,Uganda,Burundi,República Democrática del Congo,Tanzania.
+2,678,Santo Tomé y Príncipe,Santo Tomé,964,Santotomense,Doblón,197541,Gabón.
+2,686,Senegal,Dakar,196722,senegalés,Franco CFA de África Occidental,14320055,Mauritania,Malí,Guinea,Guinea-Bisáu.
+2,690,Seychelles,Victoria,455,Seychellense,Rupia de Seychelles,93186,océano Índico,Madagascar.
+2,694,Sierra Leona,Freetown,71740,Sierraleonés,Leone,6018888,Guinea,Liberia.
+2,706,Somalia,Mogadiscio,637657,Somalí,Chelín somalí,10817354,Etiopía,Yibuti,Kenia.
+2,748,Suazilandia,Mbabane,17364,Suazi,Lilangeni,1451428,Sudáfrica,Mozambique.
+2,710,Sudáfrica,Ciudad del Cabo,1219090,Sudanés,Libra sudanesa,54300704,Egipto,mar Rojo,Eritrea,Etiopía,Sudán del Sur,República Centroafricana,Chad,Libia.
+2,736,Sudán,Jartum,1861484,Sudanés,Libra sudanesa,36729501,Egipto,mar Rojo,Eritrea,Etiopía,Sudán del Sur,República Centroafricana,Chad,Libia.
+2,728,Sudán del Sur,Yuba,644329,Sursudanés,Libra sursudanesa,12530717,Sudán,Etiopía,Kenia,Uganda,República Democrática del Congo,República Centroafricana.
+2,834,Tanzania,Dodoma,947300,Tanzano,Chelín tanzano,52482726,Kenia,Uganda,Ruanda,Burundi,República Democrática del Congo,Zambia,Malaui.
+2,768,Togo,Lomé,56785,Togolés,Franco CFA de África Occidental,7756937,África subsahariana.
+2,788,Túnez,Túnez,163610,tunecino,Dinar tunecino,11134588,Argelia,Libia.
+2,800,Uganda,Kampala,241038,ugandés,Chelín ugandés,38319241,Kenia,Sudán del Sur,República Democrática del Congo,Ruanda,Tanzania.
+2,262,Yibuti,Yibuti,23200,yibutiano,Franco yibutiano,846687,Eritrea,Etiopía.
+2,894,Zambia,Lusaka,752618,zambiano,Kwacha zambiano,15510711,República Democrática del Congo,Tanzania,Malaui,Mozambique,Zimbabue,Botsuana,Namibia.
+2,716,Zimbabue,Harare,390757,Zimbabuense,Dólar de EE. UU,14546961,Botsuana,Zambia,Sudáfrica,Mozambique.3,4,Afganistán,Kabul,652230,afgano,Afgani,35688822,Pakistán,iran,Turkmenistán,UzbekistányTayikistánalnorte,RepúblicaPopularChina
+3,682,ArabiaSaudita,Riad,2149690,saudí,Riyalsaudí,32275687,omanyyemen,kuwait,Emiratosarabes,Catar,marrojo,golfopersico,jordaniaeirak
+3,51,Armenia,Ereván,29800,armenio,dram,3001643,IránylaRepúblicaAutónomadeNajichevándeAzerbaiyán.,Azerbaiyan,Georgia,Turquia
+3,074,Azerbaiyán,Bakú,86600,Azerbaiyano,Manat Azerí,9984000,Armenia,Georgia,Irán,Rusia,Turquía
+3,080,Bahrein,Manamá,741,Bareiní,Dinar bareiní,1608000,Arabia saudí,Qatar
+3,081,Bangladés,Daca,144000,Bangladesí,Takabangladesí,176198000,Birmania,India
+3,108,Brunei,Bandar Seri Begawan,5765,Bruneano,Dólar de Brunéi,429000,Malasia
+3,119,Bhután,Timbu,38400,Butanés,Ngultrum butanés,740000,China,India
+3,141,Camboya,Phnom Penh,181000,Camboyano, Riel camboyano,16206000,Laos,Tailandia,Vietnam
+3,215,China,Pekín,9600000,Chino,Yuan chino,1395261000,Afganistán,Bután,Birmania,Corea del Norte,India,Kazajistán,Kirguistán,Laos,Mongolia,Nepal,Pakistán,Rusia,Tayikistán,Vietnam,Hong Kong,Macao
+3,221,Chipre,Nicosia,9250,Chipriota,Euro,872000,Reino Unido
+3,244,Emiratos Árabes Unidos,Abu Dhabi,83600,Emiratí,Dirham de los Emiratos Árabes Unidos,9654000,Arabia Saudita,Omán
+3,676,Federación Rusa,Moscú,17100000,Ruso,Rublo,147043000,Azerbaiyán,Bielorrusia,China,Corea del Norte,Estonia,Finlandia,Georgia,Kazajistán,Letonia,Lituania,Mongolia,Noruega,Polonia,Ucrania
+3,267,Filipinas,Manila,300000,Filipino,Peso Filipino,107041000,Mar de filipinas
+3,287,Georgia,Tiflis,69700,Georgiano,Lari Georgiano,3733000,Armenia,Azerbaiyán,Rusia,Turquía
+3,361,India,Nueva Delhi,3290000,Indio,Rupia India,1375898000,Bangladés,Bután,Birmania,China,Nepal,Pakistán
+3,365,Indonesia,Yakarta,1900000,Indonesio,Rupia Indonesia,266614000,Malasia,Papúa Nueva Guinea,Timor Oriental
+3,372,Irán,Teherán,1650000,Iraní,Rial Iraní,82231000,Afganistán,Armenia,Azerbaiyán,Irak,Pakistán,Turkmenistán,Turquía
+3,369,Irak,Bagdad,438300,Iraquí,Dinar Iraquí,38328000,Arabia Saudita,Irán,Jordania,Kuwait,Siria,Turquía
+3,383,Israel,Jerusalén,22070,Israelí,Nuevo Shéquel,8969000,Egipto,Jordania,Líbano,Siria,Palestina
+3,399,Japón,Tokio,378000,Japonés,Yen,126398000,Mar del Japón, China, Corea del Norte, Corea del Sur,Rusia
+3,403,Jordania,Ammán,89350,Jordano,Dinar Jordano,10900000,Arabia Saudita,Irak,Israel,Siria,Cisjordania
+3,406,Kazajistán,Astana,2725000,Kazajo,Tenge Kazajo,18400000,China,Kirguistán,Rusia,Turkmenistán,Uzbekistán
+3,412,Kirguistán,Bishkek,199950,Kirguís,Som Kirguís,6379000,China,Kazajistán,Uzbekistán,Tayikistán
+3,413,Kuwait,Al-kuwait,17820,Kuwaití,Dinar Kuwaití,4244000,Arabia Saudita,Irak
+3,431,Líbano,Beirut,10400,Libanés,Libra Libanesa,6236000,Israel,Siria
+3,455,Malasia,Kuala Lumpur,330000,Malasio,Ringgit,32659000,Brunéi,Indonesia,Tailandia
+3,461,Maldivas,Male,298,Maldivo,Rufiyaa,356000,Océano Índico, Sri Lanka,India,Islas coralinas
+3,497,Mongolia,Ulan Bator,1575000,Mongol,Tugrik Mongol,3271000,China,Rusia
+3,517,Nepal,Katmandú,147200,Nepalés,Rupia Nepalí,29419000,China,India
+3,556,Omán,Mascate,309500,Omaní,Rial Omaní,4649000,Arabia Saudita,Arabia Saudita,Arabia Saudita
+3,576,Pakistán,Islamabad,799400,Pakistaní,Rupia Pakistaní,216823000,Afganistán,China,India,Irán
+3,741,Singapur, Ciudad de Singapur,697,Singapurense,Dólar de Singapur,5652000,Malasya,Indonesia
+3,744,Siria,Damasco,185200,Sirio,Libra Siria,18298000,Irak,Israel,Jordania,Líbano,Turquía
+3,750,Sri Lanka,Colombo,65600,Ceilanés,Rupia de Sri Lanka,21789000, océano Índico,penín- sula india
+3,776,Tailandia,Bangkok,513100,Tailandés,Baht Tailandés,69398000,Birmania,Camboya,Laos,Malasia
+3,774,Tayikistán,Dushambé,143100,Tayiko,Somoni Tayiko,9129000,Afganistán,China,Kirguistán,Uzbekistán
+3,788,Timor Leste,Dili,14875,Timorense,Dólar Estadounidense,1275000,Indonesia
+3,825,Turkmenistán,Ashjabad,595562782,Turcomano,Manat Turcomano,5902000,Afganistán,Irán,Kazajistán,Uzbekistán
+3,827,Turquía,Ankara,783560,Turco,Lira Turca,81821000,Armenia,Bulgaria,Georgia,Grecia,Irak,Irán,Siria,Azerbaiyán
+3,847,Uzbekistán,Tashkent,447400,Uzbeko,Sum Uzbeco,32707000,Afganistán,Kazajistán,Kirguistán,Tayikistán,Turkmenistán
+3,855,Vietnam,Hanoi,331200,Vietnamita,Dong Vietnamita,94827000,Camboya,China,Laos
+3,880,Yemen,Saná,528000,Yemení,Rial Yemení,29332000,Arabia Saudita,Omán4,008,Albania,Albania,28748,Albanés,Lek,3038594,Montenegro,Kosovo,Macedonia,Grecia,Mar Adriático,Mar Jónico
+4,276,Alemania,Berlín,35757817,Alemán,Euro,83241000,Mar del Norte,Dinamarca,Mar Báltico,Polonia,República Checa,Austria,Suiza,Francia,Luxemburgo,Bélgica,Países Bajos
+4,020,Andorra,Andorra la Vieja,468,Andorrano,Euro,78000,España,Cerdaña,Alto Urgel,Pallars Sobirá,Francia,Ariège,Pirineos Orientales
+4,051,Armenia,Ereván,29743,Armenio,Dram,2956000,Turquía,Georgia,Azerbaiyán,Irán
+4,040,Austria,Viena,83871,Austriaco,Euro,8903000,República Checa,Alemania,Eslovaquia,Hungría,Eslovenia,Italia,Suiza,Liechtenstein
+4,031,Azerbaiyán,Bakú,86600,Azerbaiyano,Manat azerí,10067000,Mar Caspio,Rusia,Georgia,Armenia,Irán
+4,056,Bélgica,Bruselas,30528,Belga,Euro,11409077,Francia,Alemania,Luxemburgo,Países Bajos,Mar del Norte
+4,112,Bielorrusia,Minsk,207600,Bielorruso,Rublo bielorruso,9570376,Lituania,Letonia,Rusia,Ucrania,Polonia
+4,072,Bosnia y Herzegovina,Sarajevo,51197,Bosnio,Marco bosnioherzegovino,3861912,Croacia,Montenegro,Serbia
+4,100,Bulgaria,Sofía,110879,Búlgaro,Lev,7144653,Rumania,Serbia,Macedonia,Grecia,Turquía,Mar Negro
+4,196,Chipre,Nicosia,9251,Chipriota,Euro,1205575,Mar Mediterráneo,Turquía,Siria,Grecia
+4,379,Ciudad del Vaticano,Ciudad del Vaticano,044,Vaticano,Euro,1000,Roma
+4,191,Croacia,Zagreb,56594,Croata,Kuna,4313707,Hungría,Serbia,Bosnia y Herzegovina,Montenegro,Eslovenia,Mar Adriático
+4,208,Dinamarca,Copenhague,43094,Danés,Corona danesa,5593785,Alemania,Mar del Norte
+4,703,Eslovaquia,Bratislava,49035,Eslovaco,Euro,5445802,Ucrania,Hungría,Austria,República Checa
+4,705,Eslovenia,Liubliana,20273,Esloveno,Euro,2080908,Italia,Mar Adriático,Croacia,Hungría,Austria
+4,724,España,Madrid,505370,Español,Euro,48563476,Portugal,Francia,Andorra,Oceano Atlántico,Mar Mediterráneo
+4,233,Estonia,Tallin,45228,Estonio,Euro,1258545,Letonia,Rusia,Finlandia,Mar Báltico
+4,246,Finlandia,Helsinki,338415,Finlandés,Euro,5948211,Suecia,Rusia,Noruega
+4,250,Francia,París,643801,Francés,Euro,66836154,Andorra,España,Oceano Atlántico,Bélgica,Luxemburgo,Alemania,Suiza,Italia,Mónaco
+4,268,Georgia,Tiflis,69700,Georgiano,Lari,4928052,Rusia,Turquía,Armenia,Azerbaiyán
+4,300,Grecia,Atenas,131957,Griego,Euro,10773253,Albania,Macedonia,Bulgaria,Turquía
+4,348,Hungría,Budapest,93028,Húngaro,Forinto húngaro,9874784,Eslovaquia,Ucrania,Rumanía,Serbia,Croacia,Eslovenia,Austria
+4,372,Irlanda,Dublín,70273,Irlandés,Euro,4952473,Oceno Atlántico,Mar Céltico
+4,352,Islandia,Reikiavik,103000,Islandés,Corona islandesa,350000,Mar de Groenlandia,Océano Atlántico,Reino Unido
+4,380,Italia,Roma,301340,Italiano,Euro,62007540,Mar Mediterráneo,Francia,Suiza,Austria,Eslovenia,Ciudad del Vaticano
+4,428,Letonia,Riga,64589,Letón,Euro,1965686,Lituania,Bielorrusia,Rusia,Estonia,Mar del Norte
+4,438,Liechtenstein,Vaduz,160,Liechtensteiniano,Franco suizo,37937,Suiza,Alemania,Austria
+4,440,Lituania,Vilna,65300,Lituano,Euro,2854235,Mar Báltico,Rusia,Letonia,Bielorrusia
+4,442,Luxemburgo,Ciudad de Luxemburgo,2586,Luxemburgués,Euro,582291,Francia,Alemania,Bélgica
+4,807,Macedonia,Skopie,25713,Macedonio,Denar normacedonio,2100025,Serbia,Kosovo,Bulgaria,Grecia,Albania
+4,470,Malta,La Valeta,316,Maltés,Euro,415196,Mar del Mediterráneo,Italia,Túnez,Libia
+4,498,Moldavia,Chisináu,33851,Moldavo,Leu moldavo,3510485,Rumania,Ucrania
+4,492,Mónaco,Ciudad de Mónaco,2,Monegasco,Euro,30581,Francia,Mar Mediterráneo,Italia 
+4,499,Montenegro,Podgorica,13812,Montenegrino,Euro,644578,Bosnia y Herzegovina,Serbia,Albania,Croacia,Serbia
+4,578,Noruega,Oslo,323802,Noruego,Corona noruega,5265158,Islandia,Mar del Norte,Suecia,Dinamarca
+4,528,Países Bajos,Ámsterdam,41543,Neerlandés,Euro,17016967,Bèlgica,Alemania,Mar del Norte
+4,616,Polonia,Varsovia,312685,Polaco,Zloty,38652326,Rusia,Lituania,Bielorrusia,Ucrania,República Checa,Eslovaquia,Alemania
+4,620,Portugal,Lisboa,92090,Portugués,Euro,10833816,España,Océano Atlántico
+4,826,Reino Unido,Londres,243610,Británico,Libra esterlina,64430428,Océano Atlántico,Mar del Norte
+4,203,República Checa,Praga,78867,Checo,Corona checa,10644842,Alemania,Austria,Eslovaquia,Polonia
+4,642,Rumania,Bucarest,238391,Rumano,Leu,21599736,Hungría,Serbia,Ucrania,Moldavia,Bulgaria
+4,643,Rusia,Moscú,17098242,Ruso,Rublo ruso,142355415,Noruega,Finlandia,Estonia,Letonia,Bielorrusia,Lituania,Polonia,Ucrania,Georgia,Océano Ártico,Mar del Norte,Océano Pacífico,Mar Báltico,Mar Negro,Mar Caspio
+4,674,San Marino,Ciudad de San Marino,61,Sanmarinense,Euro,33285,Italia,Ciudad del Vaticano
+4,688,Serbia,Belgrado,77474,Serbio,Dinar,7143921,Hungría,Rumania,Bulgaria,Macedonia,Albania,Bosnia,Herzegovina,Croacia,Montenegro
+4,752,Suecia,Estocolmo,450295,Sueco,Corona sueca,9880604,Noruega,Finlandia,Mar Báltico,Mar del Norte
+4,756,Suiza,Berna,41277,Suizo,Franco suizo,8179294,Alemania,Francia,Italia,Austria,Liechtenstein
+4,804,Ucrania,Kiev,603550,Ucraniano,Grivna,44209733,Rusia,Bielorrusia,Polonia,Eslovaquia,Hungría,Rumania,Moldavia,Mar Negro5,069,Australia,Camberra,7692030,Australiano,Dólar australiano,25043027,Mar de Timor,Mar de Arafura,Estrecho de Torres,Mar de Coral,Mar de Tasmania,Estrecho de Bass,Océano índico.
+5,242,Fiyi,Suva,18376,Fiyiano,Dólar fiyiano,9093894,División Central,División Norte,División Oeste.
+5,584,Islas Marshall,Majuro,181,Marshalés,Dólar estadounidense,53066,Hawai,Guam,Las Islas Marianas,Estados Federados,Micronesia,Kiribati. 
+5,411,Kiribati,Tarawa,811,Kiribatiano,Dólar kiribati,106925,Océano Pacifico,Océano índico,Océano Glaciar Antártico,Estados Federados de Micronesia,Fiji,Guam,Hawai,Isla de Pascua,Islas Cocos,Isla Juan Fernández,Islas Marianas del Norte, Islas Marshall,Islas Pitcairn,Islas Salomón,Kiribati,Nauru,Nueva Zelanda,Palau,Papúa Nueva Guinea,Polinesia Francesa,Samoa,Samoa Americana,Tokelau,Tonga,Tuvalu,Vanuatu,Wallis y Futuna,Islas Galápagos,Isla Malpelo 
+5,677,Islas Salomón,Honiara,28896,Salomonense?,Dólar de las Islas Salomón,635027,Océano Pacifico,Océano índico,Océano Glaciar Antártico,Estados Federados de Micronesia,Fiji,Guam,Hawai,Isla de Pascua,Islas Cocos,Isla Juan Fernández,Islas Marianas del Norte, Islas Marshall,Islas Pitcairn,Islas Salomón,Kiribati,Nauru,Nueva Zelanda,Palau,Papúa Nueva Guinea,Polinesia Francesa,Samoa,Samoa Americana,Tokelau,Tonga,Tuvalu,Vanuatu,Wallis y Futuna,Islas Galápagos,Isla Malpelo 
+5,494,Micronesia,Palikir,702,Micronesio,Dólar estadounidense,104719,Océano Pacifico,Océano índico,Océano Glaciar Antártico,Estados Federados de Micronesia,Fiji,Guam,Hawai,Isla de Pascua,Islas Cocos,Isla Juan Fernández,Islas Marianas del Norte, Islas Marshall,Islas Pitcairn,Islas Salomón,Kiribati,Nauru,Nueva Zelanda,Palau,Papúa Nueva Guinea,Polinesia Francesa,Samoa,Samoa Americana,Tokelau,Tonga,Tuvalu,Vanuatu,Wallis y Futuna,Islas Galápagos,Isla Malpelo
+5,508,Nauru,Yaren,21,Nauruano,Dólar australiano,9591,Océano Pacifico,Océano índico,Océano Glaciar Antártico,Estados Federados de Micronesia,Fiji,Guam,Hawai,Isla de Pascua,Islas Cocos,Isla Juan Fernández,Islas Marianas del Norte, Islas Marshall,Islas Pitcairn,Islas Salomón,Kiribati,Nauru,Nueva Zelanda,Palau,Papúa Nueva Guinea,Polinesia Francesa,Samoa,Samoa Americana,Tokelau,Tonga,Tuvalu,Vanuatu,Wallis y Futuna,Islas Galápagos,Isla Malpelo
+5,548,Nueva Zelanda,Wellington,268838,Neozelandés,Dólar neozelandés,4474549,Océano Pacifico,Océano índico,Océano Glaciar Antártico,Estados Federados de Micronesia,Fiji,Guam,Hawai,Isla de Pascua,Islas Cocos,Isla Juan Fernández,Islas Marianas del Norte, Islas Marshall,Islas Pitcairn,Islas Salomón,Kiribati,Nauru,Nueva Zelanda,Palau,Papúa Nueva Guinea,Polinesia Francesa,Samoa,Samoa Americana,Tokelau,Tonga,Tuvalu,Vanuatu,Wallis y Futuna,Islas Galápagos,Isla Malpelo
+5,578,Palaos,Ngerulmud,459,Palao,Dólar estadounidense,21347,Océano Pacifico,Océano índico,Océano Glaciar Antártico,Estados Federados de Micronesia,Fiji,Guam,Hawai,Isla de Pascua,Islas Cocos,Isla Juan Fernández,Islas Marianas del Norte, Islas Marshall,Islas Pitcairn,Islas Salomón,Kiribati,Nauru,Nueva Zelanda,Palau,Papúa Nueva Guinea,Polinesia Francesa,Samoa,Samoa Americana,Tokelau,Tonga,Tuvalu,Vanuatu,Wallis y Futuna,Islas Galápagos,Isla Malpelo
+5,545,Papúa Nueva Guinea,Puerto Moresby,462840,Papú,Kina,6791317,Océano Pacifico,Océano índico,Océano Glaciar Antártico,Estados Federados de Micronesia,Fiji,Guam,Hawai,Isla de Pascua,Islas Cocos,Isla Juan Fernández,Islas Marianas del Norte, Islas Marshall,Islas Pitcairn,Islas Salomón,Kiribati,Nauru,Nueva Zelanda,Palau,Papúa Nueva Guinea,Polinesia Francesa,Samoa,Samoa Americana,Tokelau,Tonga,Tuvalu,Vanuatu,Wallis y Futuna,Islas Galápagos,Isla Malpelo
+5,687,Samoa,Apia,2831,Samoano,Tala,198926,Océano Pacifico,Océano índico,Océano Glaciar Antártico,Estados Federados de Micronesia,Fiji,Guam,Hawai,Isla de Pascua,Islas Cocos,Isla Juan Fernández,Islas Marianas del Norte, Islas Marshall,Islas Pitcairn,Islas Salomón,Kiribati,Nauru,Nueva Zelanda,Palau,Papúa Nueva Guinea,Polinesia Francesa,Samoa,Samoa Americana,Tokelau,Tonga,Tuvalu,Vanuatu,Wallis y Futuna,Islas Galápagos,Isla Malpelo
+5,810,Tonga,Nukualofa,747,Tongano,Pa'anga,106513,Océano Pacifico,Océano índico,Océano Glaciar Antártico,Estados Federados de Micronesia,Fiji,Guam,Hawai,Isla de Pascua,Islas Cocos,Isla Juan Fernández,Islas Marianas del Norte, Islas Marshall,Islas Pitcairn,Islas Salomón,Kiribati,Nauru,Nueva Zelanda,Palau,Papúa Nueva Guinea,Polinesia Francesa,Samoa,Samoa Americana,Tokelau,Tonga,Tuvalu,Vanuatu,Wallis y Futuna,Islas Galápagos,Isla Malpelo
+5,828,Tuvalu,Funafuti,26,Tuvaluano,Dólar Tuvaluano,10959,Océano Pacifico,Océano índico,Océano Glaciar Antártico,Estados Federados de Micronesia,Fiji,Guam,Hawai,Isla de Pascua,Islas Cocos,Isla Juan Fernández,Islas Marianas del Norte, Islas Marshall,Islas Pitcairn,Islas Salomón,Kiribati,Nauru,Nueva Zelanda,Palau,Papúa Nueva Guinea,Polinesia Francesa,Samoa,Samoa Americana,Tokelau,Tonga,Tuvalu,Vanuatu,Wallis y Futuna,Islas Galápagos,Isla Malpelo
+5,551,Vanuatu,Port Vila,12189,vanuatuense,Vatu,277554,Océano Pacifico,Océano índico,Océano Glaciar Antártico,Estados Federados de Micronesia,Fiji,Guam,Hawai,Isla de Pascua,Islas Cocos,Isla Juan Fernández,Islas Marianas del Norte, Islas Marshall,Islas Pitcairn,Islas Salomón,Kiribati,Nauru,Nueva Zelanda,Palau,Papúa Nueva Guinea,Polinesia Francesa,Samoa,Samoa Americana,Tokelau,Tonga,Tuvalu,Vanuatu,Wallis y Futuna,Islas Galápagos,Isla Malpelo
